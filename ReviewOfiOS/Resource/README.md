@@ -20,7 +20,7 @@ iOS开发知识点：
 13.设计模式，代理，适配器，工厂等 oc设计模式
 14.调试能力 定位bug 看门狗 中断 断点设置 防止崩溃（数组越界，unrecogized seletor send to instance）
 15.架构模式 mvc mvvm 
-16.技术选择 oc/swift，frame/xib和sb，rxswift/(delegate notification kvo block target-action)，redux，flutter，reactive-native，
+16.技术选择 oc/swift，frame/xib和sb，rxswift/(delegate notification kvo block target-action)，redux，flutter（google），reactive-native，
 17.业务能力， 对业务的理解，时序图表达异步操作或网络请求，关键逻辑的掌握程度，对接产品的能力  形成自己的时序业务逻辑文档
 18.app优化能力 包体积，启动时间，流畅度，卡顿分析，响应速度
 19.开发工具，版本控制（服务器根据不同版本返回不同的接口数据）参见沙发视频的开发工具
